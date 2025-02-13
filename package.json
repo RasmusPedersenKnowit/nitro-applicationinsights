@@ -55,7 +55,6 @@
     "eslint": "9.20.1",
     "eslint-config-unjs": "^0.4.2",
     "jiti": "^2.4.2",
-    "nitro-applicationinsights": "link:./",
     "ofetch": "^1.4.1",
     "rollup": "^4.34.6",
     "typescript": "^5.7.3",
@@ -74,7 +73,7 @@
     "nitro-opentelemetry": "^0.7.4",
     "nitro-test-utils": "^0.9.1",
     "pathe": "^2.0.3",
-    "nitro-applicationinsights": "link:./"
+
   },
   "peerDependencies": {
     "h3": ">=1.15.0",
